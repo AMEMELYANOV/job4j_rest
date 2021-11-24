@@ -13,4 +13,10 @@
         <maven.compiler.target>14</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>auth</module>
+    </modules>
+
+    <packaging>pom</packaging>
+
 </project>
